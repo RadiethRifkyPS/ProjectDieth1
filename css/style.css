@@ -5,8 +5,7 @@
     text-shadow: 2px 2px 4px #000000;
 }
 footer {
-     display: flex;
-     justify-content: center;
+      justify-content: center;
       text-align: center;
       font-size: 130%;
       text-shadow: 2px 2px 4px #ffffff;
