@@ -5,10 +5,8 @@
     text-shadow: 2px 2px 4px #000000;
 }
 footer {
-    display: flex;
-      justify-content: center;
-      align-items: flex-end; /* Mengatur teks di bagian bawah */
-      height: 100vh; /* Mengisi tinggi layar penuh */
+     display: flex;
+     justify-content: center;
       text-align: center;
       font-size: 130%;
       text-shadow: 2px 2px 4px #ffffff;
